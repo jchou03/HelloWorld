@@ -1,0 +1,27 @@
+﻿body {
+	background-color: yellow;
+	color:blue;
+}
+div {
+	<!--background-color:LightSkyBlue;-->
+	background-image: url(Images/AC_image.jpg);
+}
+h1 {
+	text-align:center;
+	background-color:#00db2f;
+}
+h5 {
+	text-align:center;
+}
+img {
+	align-items:center;
+}
+#explosionText{
+	background-image:url(https://i.ytimg.com/vi/jar1LTxxAeM/maxresdefault.jpg);
+	background-size:fill;
+}
+#explosion{
+	background-image:url(https://i.ytimg.com/vi/jar1LTxxAeM/maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-width: 100%;
+}
