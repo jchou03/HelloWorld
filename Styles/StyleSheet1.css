@@ -3,8 +3,7 @@
 	color:blue;
 }
 div {
-	<!--background-color:LightSkyBlue;-->
-	background-image: url(Images/AC_image.jpg);
+	background-color:LightSkyBlue;
 }
 h1 {
 	text-align:center;
@@ -24,4 +23,28 @@ img {
 	background-image:url(https://i.ytimg.com/vi/jar1LTxxAeM/maxresdefault.jpg);
 	background-repeat: no-repeat;
 	background-width: 100%;
+}
+td,th {
+	border: 1px solid #dddddd;
+	padding: 8px;
+}
+header{
+	background-color:pink;
+	padding: 20px;
+}
+nav{
+	float: both;
+    background: #ccc;
+    padding: 20px;
+}
+.navElement {
+	box-sizing:borderbox;
+	float:left;
+	size:33%;
+	padding: 10px;
+	background-color:green;
+}
+section{
+	float:left;
+	background:purple;
 }
